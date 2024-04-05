@@ -22,4 +22,6 @@
 # PROJECTS
 <li><a href="https://github.com/Bianuu/Pacman" > Pacman - Python</a>
 </li>
+<li><a href="https://github.com/Bianuu/Queues-Management-Application-Using-Threads-And-Synchronization-Mechanisms" > Queues Management Application Using Threads And Synchronization Mechanisms - Java</a>
+</li>
 ## The site of the UTCN - AC - CTI,where I study, is [here](https://ac.utcluj.ro/acasa.html).
