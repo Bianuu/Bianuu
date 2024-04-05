@@ -21,7 +21,6 @@
 
 # PROJECTS
 <li>
-::marker
-  <a href="https://github.com/Bianuu/Pacman" > Pacman</a>
+::marker <a href="https://github.com/Bianuu/Pacman" > Pacman - Python</a>
 </li>
 ## The site of the UTCN - AC - CTI,where I study, is [here](https://ac.utcluj.ro/acasa.html).
