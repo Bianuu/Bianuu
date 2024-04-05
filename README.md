@@ -47,6 +47,8 @@
 </li>
 <li><a href="https://github.com/Bianuu/MIPSPipeline16" >MIPSPipeline16 - VHDL</a>
 </li>
+<li><a href="https://github.com/Bianuu/OperatingSystems" >Operating Systems - C</a>
+</li>
 </ul>
 
 # The site of the UTCN - AC - CTI,where I study, is [here](https://ac.utcluj.ro/acasa.html).
