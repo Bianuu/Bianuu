@@ -44,6 +44,5 @@
 <li><a href="https://github.com/Bianuu/CarAuction" >Car Auction - Java</a>
 </li>
 </ul>
-<div>
 # The site of the UTCN - AC - CTI,where I study, is [here](https://ac.utcluj.ro/acasa.html).
-</div>
+
