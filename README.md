@@ -45,6 +45,8 @@
 </li>
 <li><a href="https://github.com/Bianuu/OrdersManagement" >Orders Management - Java</a>
 </li>
+<li><a href="https://github.com/Bianuu/MIPSPipeline16" >MIPSPipeline16 - VHDL</a>
+</li>
 </ul>
 
 # The site of the UTCN - AC - CTI,where I study, is [here](https://ac.utcluj.ro/acasa.html).
