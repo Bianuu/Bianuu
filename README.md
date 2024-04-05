@@ -26,6 +26,22 @@
 </li>
 <li><a href="https://github.com/Bianuu/PolynomialComputer" > Polynomial Computer - Java</a>
 </li>
+<li><a href="https://github.com/Bianuu/LearnCircle" > Learn Circle - Java</a>
+</li>
+<li><a href="https://github.com/Bianuu/Timer" > Timer - VHDL</a>
+</li>
+<li><a href="https://github.com/Bianuu/SmartParking" > Smart Parking - Arduino</a>
+</li>
+<li><a href="https://github.com/Bianuu/Minesweeper" > Minesweeper - Java</a>
+</li>
+<li><a href="https://github.com/Bianuu/Sudoku-in-Assembly-" >Sudoku - Assembly</a>
+</li>
+<li><a href="https://github.com/Bianuu/FitnessFitforLife" >FitnessFitforLife - C#</a>
+</li>
+<li><a href="https://github.com/Bianuu/Polyclinic" >Polyclinic - Java</a>
+</li>
+<li><a href="https://github.com/Bianuu/CarAuction" >Car Auction - Java</a>
+</li>
 
 <div>
 # The site of the UTCN - AC - CTI,where I study, is [here](https://ac.utcluj.ro/acasa.html).
