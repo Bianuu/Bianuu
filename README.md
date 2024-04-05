@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python, Java, Arduino**
 
-- 👨‍💻 All of my projects are available at [github.com/Bianuu](https://github.com/Bianuu?tab=repositories)
+- 👨‍💻 All of my projects are available at [BianuuRepositories](https://github.com/Bianuu?tab=repositories)
 
 - 📫 How to reach me **fabian.cioban2002@gmail.com**
 
