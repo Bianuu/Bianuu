@@ -4,7 +4,7 @@
 
 - 👋 I'm looking forward to learning **new programming languages**
 
-- 🌱 I’m currently learning **Python, Java, Arduino**
+- 🌱 I’m currently learning **Java, Python, Arduino**
 
 - 👨‍💻 All of my projects are available at [BianuuRepositories](https://github.com/Bianuu?tab=repositories)
 
