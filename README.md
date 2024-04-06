@@ -53,6 +53,8 @@
 </li>
 <li><a href="https://github.com/Bianuu/ReinterpretationSnake" >Reinterpretation Snake - C++</a>
 </li>
+<li><a href="https://github.com/Bianuu/Hangman" >Hangman - C</a>
+</li>
 </ul>
 
 # The site of the UTCN - AC - CTI,where I study, is [here](https://ac.utcluj.ro/acasa.html).
