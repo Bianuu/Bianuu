@@ -21,10 +21,6 @@
 
 # PROJECTS
 <ul>
-<li><a href="https://github.com/Bianuu/Pacman" > Pacman - Python</a>
-</li>
-<li><a href="https://github.com/Bianuu/Queues-Management-Application-Using-Threads-And-Synchronization-Mechanisms" > Queues Management Application Using Threads And Synchronization Mechanisms - Java</a>
-</li>
 <li><a href="https://github.com/Bianuu/PolynomialComputer" > Polynomial Computer - Java</a>
 </li>
 <li><a href="https://github.com/Bianuu/LearnCircle" > Learn Circle - Java</a>
@@ -48,6 +44,10 @@
 <li><a href="https://github.com/Bianuu/MIPSPipeline16" >MIPSPipeline16 - VHDL</a>
 </li>
 <li><a href="https://github.com/Bianuu/OperatingSystems" >Operating Systems - C</a>
+</li>
+<li><a href="https://github.com/Bianuu/Pacman" > Pacman - Python</a>
+</li>
+<li><a href="https://github.com/Bianuu/Queues-Management-Application-Using-Threads-And-Synchronization-Mechanisms" > Queues Management Application Using Threads And Synchronization Mechanisms - Java</a>
 </li>
 <li><a href="https://github.com/Bianuu/ProiectHaskell" >ProiectHaskell - Haskell</a>
 </li>
