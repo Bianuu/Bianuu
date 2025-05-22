@@ -21,6 +21,8 @@
 
 # PROJECTS
 <ul>
+<li><a href="https://github.com/Bianuu/ConnectifyAppSocial" > Social Application - Java</a>
+</li>
 <li><a href="https://github.com/Bianuu/PolynomialComputer" > Polynomial Computer - Java</a>
 </li>
 <li><a href="https://github.com/Bianuu/LearnCircle" > Learn Circle - Java</a>
