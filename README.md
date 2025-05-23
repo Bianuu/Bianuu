@@ -42,6 +42,8 @@
 <li><a href="https://github.com/Bianuu/Polyclinic" >Polyclinic - Java</a>
 </li>
 <li><a href="https://github.com/Bianuu/CarAuction" >Car Auction - Java</a>
+  <li><a href="https://github.com/Bianuu/WebApp-E-learning" > WebApp E-learning Application - Next.js</a>
+</li>
 </li>
 <li><a href="https://github.com/Bianuu/OrdersManagement" >Orders Management - Java</a>
 </li>
