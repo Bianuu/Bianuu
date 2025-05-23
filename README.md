@@ -26,6 +26,8 @@
 <li><a href="https://github.com/Bianuu/PolynomialComputer" > Polynomial Computer - Java</a>
 </li>
 <li><a href="https://github.com/Bianuu/LearnCircle" > Learn Circle - Java</a>
+<li><a href="https://github.com/Bianuu/WifiAppInformation" > WifiInfo Application - Android</a>
+</li>
 </li>
 <li><a href="https://github.com/Bianuu/Timer" > Timer - VHDL</a>
 </li>
