@@ -32,7 +32,7 @@
   <li><a href="https://github.com/Bianuu/WIFInformationTool" > WifiInfo Application -  Android</a>
 </li>
 <li><a href="https://github.com/Bianuu/LearnCircle" > Learn Circle - Java</a>
-<li><a href="https://github.com/Bianuu/Learnify" > Learnify - Next.js</a>
+<li><a href="https://github.com/Bianuu/WebApp-E-learning" > Learnify - Next.js</a>
 </li>
 </li>
 <li><a href="https://github.com/Bianuu/Timer" > Timer - VHDL</a>
