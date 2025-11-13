@@ -9,6 +9,7 @@
 - 👨‍💻 All of my projects are available at [BianuuRepositories](https://github.com/Bianuu?tab=repositories)
 
 - 📫 How to reach me **fabian.cioban2002@gmail.com**
+- 📑 My Resume [Resume](https://drive.google.com/file/d/1YHATmdapEh-z5I8e2lTjhvRJ9iHadncB/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
