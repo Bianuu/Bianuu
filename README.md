@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fabian</h1>
 <h3 align="center">A passionate Computer Engineering student from Cluj-Napoca, Romania</h3>
-<img align="right" alt="Coding" width="400" src="https://yfsmagazine.com/wp-content/uploads/2023/03/AI-For-Digital-Content-Creation-Friend-or-Foe-YFS-Magazine-1132x670.jpeg">
+<img align="right" alt="Coding" width="400" src="https://github.com/Bianuu/Bianuu/blob/33cd6b17a90ff21b99abb66b244f85ff3505dbfa/AI-For-Digital-Content-Creation-Friend-or-Foe-YFS-Magazine-1132x670.jpeg">
 
 - 👋 I'm looking forward to learning **new programming languages**
 
