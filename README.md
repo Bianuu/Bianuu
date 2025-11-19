@@ -68,6 +68,8 @@
 </li>
 <li><a href="https://github.com/Bianuu/Hangman" >Hangman - C</a>
 </li>
+  <li><a href="https://github.com/Bianuu/maskDetection" >Mask Detection - Python</a>
+</li>
 </ul>
 
 # The site of the UTCN - AC - CTI,where I study, is [here](https://ac.utcluj.ro/acasa.html).
